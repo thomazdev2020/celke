@@ -10,4 +10,3 @@ const listarUsuarios = async () => {
 listarUsuarios();
 
 
-
